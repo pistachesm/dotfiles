@@ -1,0 +1,4 @@
+early_microcode="yes"
+add_drivers+=" amdgpu radeon "
+force_drivers+=" amdgpu " 
+hostonly_cmdline="yes"
